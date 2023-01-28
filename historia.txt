@@ -9,3 +9,7 @@ sin embargo no se cual es la diferencia en el VS code
 commit b7a4738ca76a37c45ef864686f46a6dbf7dfcdc1 those letters and numbers are tags, (like commit id's?)
 
 code git show muestra la historia de cambios realizados al archivo 
+
+git diff muestra la diferencia entre 2 versiones, para esto hay que poner en frente los 2 tags de las versiones a comparar
+el primero se mostrara en blanco lo que permanecio de version a version y en rojo lo que se elimino
+y luego en verde aparece la informacion del segundo tag 
