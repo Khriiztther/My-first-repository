@@ -13,3 +13,6 @@ code git show muestra la historia de cambios realizados al archivo
 git diff muestra la diferencia entre 2 versiones, para esto hay que poner en frente los 2 tags de las versiones a comparar
 el primero se mostrara en blanco lo que permanecio de version a version y en rojo lo que se elimino
 y luego en verde aparece la informacion del segundo tag 
+
+La clase acabo y explica que lo siguiente es saber como hacer una regresion en las versiones, como volver a una version anterior
+deshaciendo los cambios hechos al archivo.
