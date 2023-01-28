@@ -5,3 +5,5 @@ No me aparece lo mismo que al profesor lol
 
 Ya voy entendiendo un poco como funciona el git 
 sin embargo no se cual es la diferencia en el VS code
+
+commit b7a4738ca76a37c45ef864686f46a6dbf7dfcdc1 those letters and numbers are tags, (like commit id's?)
