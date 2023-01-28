@@ -1,3 +1,7 @@
 No entiendo que tengo que hacer
 
 No me aparece lo mismo que al profesor lol
+
+
+Ya voy entendiendo un poco como funciona el git 
+sin embargo no se cual es la diferencia en el VS code
