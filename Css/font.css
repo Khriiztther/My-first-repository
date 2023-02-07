@@ -21,4 +21,5 @@ body
 #container h1 
 {
     font-size: 20px;
+    border: 2px solid #ddd;
 }
