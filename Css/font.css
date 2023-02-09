@@ -24,13 +24,13 @@ body
     padding: 0 0 0 1cm;
     font-weight: normal;
     font-size: 0.8cm;
-    
+
 }
 #container 
 {
     width: 50%;
     padding: lem;
-    text-align: right;
+    text-align: center;
     border: 1px solid #ddd;
     margin: 0 auto;
 }
