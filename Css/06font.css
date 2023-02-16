@@ -12,6 +12,17 @@ body
     box-shadow: 1px 5px 20px 1px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
+    margin: 2cm;
+    padding: 0.5cm;
+}
+
+#container 
+{
+    background: purple;
+    box-shadow: 1px 5px 20px 1px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
     margin: 0;
     padding: 0.5cm;
+
 }
