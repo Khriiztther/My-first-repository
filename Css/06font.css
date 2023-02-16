@@ -3,26 +3,51 @@ body
     text-align: center;
     font-size: 26;
     font-family: 'Arial';
+    margin: 0;
+    padding: 0;
     
 }
 
 #cabecera 
 {
     background: red;
-    box-shadow: 1px 5px 20px 1px rgba(0,0,0,0.5);
-    color: white;
-    font-weight: bold;
-    margin: 2cm;
-    padding: 0.5cm;
-}
-
-#container 
-{
-    background: purple;
-    box-shadow: 1px 5px 20px 1px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5cm;
+    font-size: 40;
+}
 
+#cabecera #tagline
+{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm;
+
+}
+
+
+#container 
+{
+    background: rgb(189, 22, 189);
+    width: 100%;
+    padding: lem;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+
+#guess 
+{
+    font-size: 40;
+    background: rgb(13, 98, 255);
+    box-shadow: 4px 10px 20px 4px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.05;
+    width: 50%;
+    text-align: center;
 }
