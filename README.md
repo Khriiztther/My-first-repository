@@ -5,7 +5,7 @@ I'm learning how to use Git and GitHub, it's been super fun however there are so
 - To practice more.
 - To start a complex project so I can put all the knowledge to test.
 
-#Conclusions
+# Conclusions
 
 - It is not as complicated as expected, I definitely felt intimidated by the concept and thought it would be more complex.
 - I might not have enough time to full put to test everything learnt
